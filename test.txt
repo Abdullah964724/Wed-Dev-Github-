@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 This is my main commit!
+=======
+This is my feature commit!
+>>>>>>> feature
 
 and here we go with our commit #2!
